@@ -7,18 +7,28 @@ Ahuah-Debrah Prince Thomas
 ## Skills
 
 ⁄> Programming languages (Python, Java, JavaScript)
+
 /> Web and mobile development frameworks (HTML/CSS, Flutter)
+
 /> Cloud computing platforms (Azure, AWS)
+
 /> Machine Learning & AI
+
 /> Database management (SQL)
+
 /> Version control (Git, GitHub)
+
 /> Problem-solving and Algorithm Design
+
 /> Team Collaboration and Communication
+
 /> Project Management
+
 
 ## Why I Want to Join Imagine Cup
 
 Why I want in:
+
 /> To gain real-world experience: The competition would challenge me to solve real-world problems, allowing me to apply my academic knowledge in practical situations.
 It will be a great way to see how the theories we learn in class translate into impactful solutions.
 
